@@ -38,4 +38,4 @@ Caffe
 <h3>ScreenShot</h3>
  <img src="https://github.com/Tikam02/Crowd_Estimation_DeepLearning/blob/master/Report/ss1.jpg" alt="Smiley face" height=auto width=auto> 
 <br>
-<img src="https://github.com/Tikam02/Crowd_Estimation_DeepLearning/blob/master/Report/ss2.jpg>
+<img src="https://github.com/Tikam02/Crowd_Estimation_DeepLearning/blob/master/Report/ss2.jpg">

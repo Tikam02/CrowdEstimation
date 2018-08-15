@@ -36,8 +36,6 @@ Caffe
 <h3>Dataset Used and Optimized Predictions Values</h3>
 <a href="https://drive.google.com/file/d/16dhJn7k4FWVwByRsQAEpl9lwjuV03jVI/view">Shanghaitech Crowd-Dataset</a><br> 
 <h3>ScreenShot</h3>
+![Alt](https://github.com/Tikam02/Crowd_Estimation_DeepLearning/blob/master/Report/report.pdf.pdf)
 
-<h1>Crowd Density Estimation Through Deep Learning</h1>
-<hr>
-<h2>Implementation Of Two research Papers</h2>
 

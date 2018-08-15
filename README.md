@@ -36,6 +36,5 @@ Caffe
 <h3>Dataset Used and Optimized Predictions Values</h3>
 <a href="https://drive.google.com/file/d/16dhJn7k4FWVwByRsQAEpl9lwjuV03jVI/view">Shanghaitech Crowd-Dataset</a><br> 
 <h3>ScreenShot</h3>
-![Alt](https://github.com/Tikam02/Crowd_Estimation_DeepLearning/blob/master/Report/ss1.jpg)
-
+ <img src="https://github.com/Tikam02/Crowd_Estimation_DeepLearning/blob/master/Report/ss1.jpg" alt="Smiley face" height="42" width="42"> 
 

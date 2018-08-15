@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1>Crowd-Density Estimation(Crowd-Count)</h1>
 <h2>DeepLearning</h2>
 <hr>

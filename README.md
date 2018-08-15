@@ -1,10 +1,14 @@
-<<<<<<< HEAD
 <h1>Crowd-Density Estimation(Crowd-Count)</h1>
 <h2>DeepLearning</h2>
 <hr>
 <h2>Research Paper Implemented</h2>
-<li></li>
-<li></li>
+<li>
+<a href="https://arxiv.org/pdf/1802.10062.pdf">CSRNet: Dilated Convolutional Neural Networks for Understanding the Highly
+  Congested Scenes</a><br></li>
+  <li><a href="https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Single-Image_Crowd_Counting_CVPR_2016_paper.pdf">Single-Image Crowd Counting via Multi-Column Convolutional Neural Network</a><br></li>
+  <li><a href="https://arxiv.org/pdf/1707.09605.pdf">CNN-based Cascaded Multi-task Learning of High-level Prior and Density
+Estimation for Crowd Counting</a><br></li>
+
 <hr>
 <h3>About The Project</h3>
 <p>In this Project my main aim was to learn and implement machine learning
@@ -30,10 +34,8 @@ Caffe
 <li>GPU-NVIDIA-950M</li>
 <hr>
 <h3>Dataset Used and Optimized Predictions Values</h3>
-Shanghaitech Crowd-Dataset
+<a href="https://drive.google.com/file/d/16dhJn7k4FWVwByRsQAEpl9lwjuV03jVI/view">Shanghaitech Crowd-Dataset</a><br> 
 <h3>ScreenShot</h3>
-=======
-<h1>Crowd Density Estimation Through Deep Learning</h1>
-<hr>
-<h2>Implementation Of Two research Papers</h2>
->>>>>>> master
+![Alt](https://github.com/Tikam02/Crowd_Estimation_DeepLearning/blob/master/Report/report.pdf)
+
+

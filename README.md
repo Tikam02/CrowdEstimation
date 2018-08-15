@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>Crowd-Density Estimation(Crowd-Count)</h1>
 <h2>DeepLearning</h2>
 <hr>
@@ -31,3 +32,8 @@ Caffe
 <h3>Dataset Used and Optimized Predictions Values</h3>
 Shanghaitech Crowd-Dataset
 <h3>ScreenShot</h3>
+=======
+<h1>Crowd Density Estimation Through Deep Learning</h1>
+<hr>
+<h2>Implementation Of Two research Papers</h2>
+>>>>>>> master

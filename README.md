@@ -4,10 +4,11 @@
 <h2>Research Paper Implemented</h2>
 <li>
 <a href="https://arxiv.org/pdf/1802.10062.pdf">CSRNet: Dilated Convolutional Neural Networks for Understanding the Highly
-  Congested Scenes</a><br>
-  <a href="https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Single-Image_Crowd_Counting_CVPR_2016_paper.pdf">Single-Image Crowd Counting via Multi-Column Convolutional Neural Network</a><br>
-  <a href="https://arxiv.org/pdf/1707.09605.pdf"></a><br>
-</li>
+  Congested Scenes</a><br></li>
+  <li><a href="https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Single-Image_Crowd_Counting_CVPR_2016_paper.pdf">Single-Image Crowd Counting via Multi-Column Convolutional Neural Network</a><br></li>
+  <li><a href="https://arxiv.org/pdf/1707.09605.pdf">CNN-based Cascaded Multi-task Learning of High-level Prior and Density
+Estimation for Crowd Counting</a><br></li>
+
 <hr>
 <h3>About The Project</h3>
 <p>In this Project my main aim was to learn and implement machine learning

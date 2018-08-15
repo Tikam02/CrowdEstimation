@@ -17,7 +17,6 @@ CUDA: 9.2
 
 Please follow the `make_dataset.ipynb ` to generate the ground truth.
 
-## Training process
 
 
 

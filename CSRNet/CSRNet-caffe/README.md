@@ -70,13 +70,3 @@ python test_caffe.py
 python evaluate.py
 ```
 
-## References
-
-```
-@article{li2018csrnet,
-  title={CSRNet: Dilated convolutional neural networks for understanding the highly congested scenes},
-  author={Li, Yuhong and Zhang, Xiaofan and Chen, Deming},
-  journal={arXiv preprint arXiv:1802.10062},
-  year={2018}
-}
-```

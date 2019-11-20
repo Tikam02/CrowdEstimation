@@ -1,6 +1,6 @@
 <h1>Crowd-Density Estimation(Crowd-Count)</h1>
 
-<hr>
+
 <h2>Research Paper Implemented</h2>
 <li>
 <a href="https://arxiv.org/pdf/1802.10062.pdf">CSRNet: Dilated Convolutional Neural Networks for Understanding the Highly

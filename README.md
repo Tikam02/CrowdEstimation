@@ -22,6 +22,7 @@ application will give alert to that specific area of crowd.</p>
 <h3>Codes</h3>
 <li><a href="https://github.com/Tikam02/CrowdEstimation/tree/master/CCMTL">CCMTL</a><br></li>
 <li><a href="https://github.com/Tikam02/CrowdEstimation/blob/master/CSRNet/CSRNET_Caffe.ipynb">CSRNet</a><br></li>
+<h3>How to run codes are provided in respective directories of code</h3>
 <hr>
 <h3>Frameworks Used</h3>
 Deep-learning Frameworks
